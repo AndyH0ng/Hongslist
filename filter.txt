@@ -1,0 +1,8 @@
+m.naver.com##.ISSUE-BANNER-AD
+m.naver.com##.id_comp_napp_banner
+m.cafe.naver.com##.banner_add
+m.cafe.naver.com##.app_guide
+m.cafe.naver.com##.ad_wrap
+m.cafe.naver.com##.my_add_tooltip
+m.dcinside.com##.clkhigh
+m.dcinside.com###adbay_floatingid
