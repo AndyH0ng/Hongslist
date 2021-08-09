@@ -3,7 +3,7 @@
 ! License: https://github.com/AndyH0ng/Hongslist
 ! Title: Hongslist
 ! Expires: 300 days
-! Version: 0.1.3.3
+! Version: 0.1.3.4
 
 m.naver.com###MM_SEARCH_NOW
 m.naver.com##.ISSUE-BANNER-AD
@@ -31,3 +31,5 @@ m.dcinside.com##.evt-noti
 m.dcinside.com##.footer
 arca.live##.topbar-area
 reddit.com##.XPromoPopup
+reddit.com##.XPromoPill
+reddit.com##.XPromoInFeed
