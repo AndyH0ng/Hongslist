@@ -1,3 +1,11 @@
+[Adblock Plus 2.0]
+! Homepage: https://github.com/AndyH0ng/Hongslist
+! License: https://github.com/AndyH0ng/Hongslist
+! Title: Hongslist
+! Expires: 300 days
+! Version: 0.1.1
+
+m.naver.com###MM_SEARCH_NOW
 m.naver.com##.ISSUE-BANNER-AD
 m.naver.com##.id_comp_napp_banner
 m.cafe.naver.com##.banner_add
