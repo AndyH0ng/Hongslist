@@ -16,6 +16,13 @@ m.cafe.naver.com##.banner_add
 m.cafe.naver.com##.app_guide
 m.cafe.naver.com##.ad_wrap
 m.cafe.naver.com##.my_add_tooltip
+band.us##.cookieSettingWrap
+band.us##._bannerCard
+band.us##.gNewIcon
+band.us##.openBandList
+band.us###footer
+band.us##.gNewCount
+band.us##._feedCount
 m.dcinside.com##.clkhigh
 m.dcinside.com##.fx-depthmenu
 m.dcinside.com##.ft-top
