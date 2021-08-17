@@ -3,7 +3,7 @@
 ! License: https://github.com/AndyH0ng/Hongslist
 ! Title: Hongslist
 ! Expires: 300 days
-! Version: 0.1.3.4
+! Version: 0.1.3.5
 
 m.naver.com###MM_SEARCH_NOW
 m.naver.com##.ISSUE-BANNER-AD
@@ -23,6 +23,11 @@ band.us##.openBandList
 band.us###footer
 band.us##.gNewCount
 band.us##._feedCount
+mimacstudy.com###mainPopPI00001520
+mimacstudy.com##.top_tch_bn
+mimacstudy.com###lay2
+mimacstudy.com##.sns_quick
+mimacstudy.com##.top_issue_bn
 m.dcinside.com##.clkhigh
 m.dcinside.com##.fx-depthmenu
 m.dcinside.com##.ft-top
