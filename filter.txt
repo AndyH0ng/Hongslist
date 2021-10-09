@@ -33,6 +33,7 @@ mimacstudy.com##.top_tch_bn
 mimacstudy.com###lay2
 mimacstudy.com##.sns_quick
 mimacstudy.com##.top_issue_bn
+mimacstudy.com##.sns_quick
 m.dcinside.com##.clkhigh
 m.dcinside.com##.fx-depthmenu
 m.dcinside.com##.ft-top
