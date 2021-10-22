@@ -5,14 +5,24 @@
 ! Expires: 300 days
 ! Version: 0.1.3.6
 
-google.com##.dRYYxd
-google.com##.gsst_b
-google.com##.gsst_c
+##.c93Gbe
+##.dRYYxd
+google.com###footer
+google.co.kr###footer
 
+##.gnb_banner
+naver.com##.service_area
+naver.com##.btn_keyboard
+naver.com###footer
+naver.com###nautocomplete
+search.naver.com###ke_kbd_btn
 m.naver.com###MM_SEARCH_NOW
 m.naver.com##.ISSUE-BANNER-AD
 m.naver.com##.id_comp_napp_banner
 m.naver.com##.cp_event_list
+section.cafe.naver.com##.btn_arrow
+section.cafe.naver.com##.cafe_banner
+section.cafe.naver.com##.home_editors
 m.cafe.naver.com##.ico_new
 m.cafe.naver.com##.icon_badge
 m.cafe.naver.com##.icon_new_txt
@@ -33,7 +43,6 @@ mimacstudy.com##.top_tch_bn
 mimacstudy.com###lay2
 mimacstudy.com##.sns_quick
 mimacstudy.com##.top_issue_bn
-mimacstudy.com##.sns_quick
 megastudy.net##.commonGnb--leftBan
 megastudy.net##.commonGnb--loginArea--sns
 megastudy.net##.commonGnb--logoArea--imgBanner
@@ -72,3 +81,4 @@ arca.live##.topbar-area
 reddit.com##.XPromoPopup
 reddit.com##.XPromoPill
 reddit.com##.XPromoInFeed
+
