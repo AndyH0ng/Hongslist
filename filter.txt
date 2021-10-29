@@ -31,6 +31,7 @@ section.cafe.naver.com##.btn_arrow
 section.cafe.naver.com##.cafe_banner
 section.cafe.naver.com##.home_editors
 section.cafe.naver.com##.footer
+cafe.naver.com###gnb-menu
 m.cafe.naver.com##.ico_new
 m.cafe.naver.com##.icon_badge
 m.cafe.naver.com##.icon_new_txt
