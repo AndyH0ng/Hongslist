@@ -51,8 +51,6 @@ megastudy.net##.commonGnb--loginArea--sns
 megastudy.net##.commonGnb--logoArea--imgBanner
 megastudy.net##.common_sky_megapass
 megastudy.net##.commonGnb--navi2--ico
-megastudy.net##.go1
-megastudy.net##.go12
 megastudy.net##.mn_academy
 megastudy.net##.mn_russel
 megastudy.net##.memberWrap__ban
