@@ -84,11 +84,14 @@ mimacstudy.com###interestTcdArea > li:nth-child(7)
 mimacstudy.com###interestTcdArea > li:last-child
 megastudy.net##.sugang_ban
 megastudy.net###SSBannerTable
+megastudy.net##.left_sky
 megastudy.net##.commonGnb--leftBan
 megastudy.net##.commonGnb--loginArea--sns
 megastudy.net##.commonGnb--logoArea--imgBanner
 megastudy.net##.common_sky_megapass
 megastudy.net##.commonGnb--navi2--ico
+megastudy.net##.commonGnb--navi1--class
+megastudy.net##.commonGnb--navi1--megaCampaign
 megastudy.net##.mn_academy
 megastudy.net##.mn_russel
 megastudy.net##.memberWrap__ban
