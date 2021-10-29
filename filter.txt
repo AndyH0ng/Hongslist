@@ -3,7 +3,7 @@
 ! License: https://github.com/AndyH0ng/Hongslist
 ! Title: Hongslist
 ! Expires: 300 days
-! Version: 0.1.3.6
+! Version: 0.1.4
 
 ##.c93Gbe
 ##.dRYYxd
@@ -37,21 +37,31 @@ band.us##.-recommendTitle
 band.us##.cookieSettingWrap
 band.us##._bannerCard
 band.us##.gNewIcon
+band.us##.gNewCount
 band.us##.openBandList
 band.us###footer
-band.us##.gNewCount
 band.us##._feedCount
 mimacstudy.com###mainPopPI00001520
+mimacstudy.com###mainPopPI00001598
+mimacstudy.com##.foot_fix_bn
+mimacstudy.com##.top_issue_bn
 mimacstudy.com##.top_tch_bn
+mimacstudy.com##.left_sky_bnr
+mimacstudy.com##.right_sky_bnr
 mimacstudy.com###lay2
 mimacstudy.com##.sns_quick
-mimacstudy.com##.top_issue_bn
 mimacstudy.com##.main_top_high_promotion
+mimacstudy.com###mainTopBannerDiv
 mimacstudy.com###indexMainBannerDiv
-mimacstudy.com##.left_sky_bnr
 mimacstudy.com##.bottomarea
-mimacstudy.com##.right_sky_bnr
-mimacstudy.com##.foot_fix_bn
+mimacstudy.com##.tchr_crclm
+mimacstudy.com###interestTcdArea > li:nth-child(4)
+mimacstudy.com###interestTcdArea > li:nth-child(5)
+mimacstudy.com###interestTcdArea > li:nth-child(6)
+mimacstudy.com###interestTcdArea > li:nth-child(7)
+mimacstudy.com###interestTcdArea > li:last-child
+megastudy.net##.sugang_ban
+megastudy.net###SSBannerTable
 megastudy.net##.commonGnb--leftBan
 megastudy.net##.commonGnb--loginArea--sns
 megastudy.net##.commonGnb--logoArea--imgBanner
