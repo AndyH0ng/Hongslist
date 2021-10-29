@@ -46,6 +46,12 @@ mimacstudy.com##.top_tch_bn
 mimacstudy.com###lay2
 mimacstudy.com##.sns_quick
 mimacstudy.com##.top_issue_bn
+mimacstudy.com##.main_top_high_promotion
+mimacstudy.com###indexMainBannerDiv
+mimacstudy.com##.left_sky_bnr
+mimacstudy.com##.bottomarea
+mimacstudy.com##.right_sky_bnr
+mimacstudy.com##.foot_fix_bn
 megastudy.net##.commonGnb--leftBan
 megastudy.net##.commonGnb--loginArea--sns
 megastudy.net##.commonGnb--logoArea--imgBanner
@@ -65,6 +71,9 @@ megastudy.net##.app
 megastudy.net##.megaNumOne
 megastudy.net##.floatingWrapBottom
 megastudy.net###floatingWrap3
+megastudy.net##.smartzone
+megastudy.net##.studyCast
+megastudy.net##.customerCenter
 m.dcinside.com##.clkhigh
 m.dcinside.com##.fx-depthmenu
 m.dcinside.com##.ft-top
