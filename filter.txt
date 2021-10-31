@@ -142,6 +142,8 @@ m.dcinside.com##.day_issuebox
 m.dcinside.com##.gall-wrap
 m.dcinside.com##.evt-noti
 m.dcinside.com##.footer
+m.dcinside.com##div.allservice:first-child > section.grid:nth-child(3) > div.all-my-wrap > ul.all-my-lst > li:nth-child(2)
+m.dcinside.com##div.allservice:first-child > section.grid:nth-child(7)
 arca.live##.topbar-area
 reddit.com##.XPromoPopup
 reddit.com##.XPromoPill
