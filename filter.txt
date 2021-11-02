@@ -8,6 +8,8 @@
 ##.c93Gbe
 ##.dRYYxd
 ##.lJ9FBc
+##.Umvnrc
+##.sbib_c
 google.com###footer
 google.co.kr###footer
 
@@ -21,7 +23,7 @@ naver.com###themecast
 naver.com##.content_top
 naver.com###NM_darkmode_btn
 search.naver.com###ke_kbd_btn
-
+search.naver.com##.ico_lnb_new
 ##.mytable_bottom
 m.naver.com###MM_SEARCH_NOW
 m.naver.com##.ISSUE-BANNER-AD
@@ -109,6 +111,7 @@ megastudy.net##.last_subj
 megastudy.net##.floatingWrapBottomRight1
 megastudy.net##.notice
 megastudy.net##.app
+megastudy.net##.new
 megastudy.net##.megaNumOne
 megastudy.net##.floatingWrapBottom
 megastudy.net###floatingWrap3
@@ -123,6 +126,7 @@ orbi.kr##.label-banner
 orbi.kr##.class-event-wrap
 orbi.kr##.orbi-services
 orbi.kr##.tutor-mentor
+orbi.kr##.class-section
 orbi.kr##.footer
 m.dcinside.com##.clkhigh
 m.dcinside.com##.fx-depthmenu
