@@ -10,8 +10,6 @@
 ##.lJ9FBc
 google.com###footer
 google.co.kr###footer
-google.com###gb > div.gb_Qd.gb_Sa.gb_Ed > div:nth-child(4)
-google.co.kr###gb > div.gb_Qd.gb_Sa.gb_Ed > div:nth-child(4)
 
 ##.gnb_banner
 naver.com##.service_area
