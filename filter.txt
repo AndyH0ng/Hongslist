@@ -65,10 +65,8 @@ dict.naver.com##.beta
 dict.naver.com##.banner_lst
 dict.naver.com##.view_all
 en.dict.naver.com##._btn_autocomplete
-en.dict.naver.com###content
 en.dict.naver.com##.banner_area
 ko.dict.naver.com##._btn_autocomplete
-ko.dict.naver.com###content
 ko.dict.naver.com##.banner_area
 mimacstudy.com###mainPopPI00001520
 mimacstudy.com###mainPopPI00001598
