@@ -70,6 +70,7 @@ ko.dict.naver.com##._btn_autocomplete
 ko.dict.naver.com##.banner_area
 mimacstudy.com###mainPopPI00001520
 mimacstudy.com###mainPopPI00001598
+mimacstudy.com###mainPopPI00001641
 mimacstudy.com##.foot_fix_bn
 mimacstudy.com##.top_issue_bn
 mimacstudy.com##.top_tch_bn
@@ -108,6 +109,8 @@ megastudy.net###footer_new
 megastudy.net##.mainTopMain
 megastudy.net##.social
 megastudy.net##.last_subj
+megastudy.net##.ly_megaP
+megastudy.net##.main_floatings
 megastudy.net##.floatingWrapBottomRight1
 megastudy.net##.notice
 megastudy.net##.app
