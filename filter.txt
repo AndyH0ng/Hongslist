@@ -102,6 +102,7 @@ megastudy.net##.common_sky_megapass
 megastudy.net##.commonGnb--navi2--ico
 megastudy.net##.commonGnb--navi1--class
 megastudy.net##.commonGnb--navi1--megaCampaign
+megastudy.net##.commonGnb--bannerHwj
 megastudy.net##.mn_academy
 megastudy.net##.mn_russel
 megastudy.net##.memberWrap__ban
