@@ -3,7 +3,7 @@
 ! License: https://github.com/AndyH0ng/Hongslist
 ! Title: Hongslist
 ! Expires: 300 days
-! Version: 0.1.6
+! Version: 0.1.7
 
 ##.c93Gbe
 ##.dRYYxd
@@ -156,6 +156,8 @@ gall.dcinside.com##.content_box
 gall.dcinside.com##.recom_bottom_box
 gall.dcinside.com###opt_use_pop
 gall.dcinside.com###opt_use_pop_bg
+gall.dcinside.com###container > section.left_content:first-child > article:last-child > div.gall_listwrap.list:nth-child(4) > table.gall_list:nth-child(2) > tbody:last-child > tr.ub-content:first-child
+gall.dcinside.com###container > section.left_content:first-child > article:last-child > div.gall_listwrap.list:nth-child(4) > table.gall_list:nth-child(2) > tbody:last-child > tr.ub-content:nth-child(2)
 search.dcinside.com##.video_result
 search.dcinside.com##.news_result
 search.dcinside.com##.wikisch_result
