@@ -133,7 +133,12 @@ orbi.kr##.class-section
 orbi.kr##.footer
 dcinside.com##.concept_con
 dcinside.com##.wiki
+dcinside.com##.hot
+dcinside.com##.new_gall
+dcinside.com##.time_best
+dcinside.com##.dcmedia
 dcinside.com##.dcfoot
+dcinside.com###rank_gall
 m.dcinside.com##.clkhigh
 m.dcinside.com##.fx-depthmenu
 m.dcinside.com##.ft-top
@@ -146,6 +151,8 @@ m.dcinside.com##.outside-search-box
 m.dcinside.com##.btm-btns-bothdaum
 m.dcinside.com##.view-btm-con
 m.dcinside.com###adbay_floatingid
+gall.dcinside.com##.content_box
+gall.dcinside.com##.recom_bottom_box
 m.dcinside.com##.day_issuebox
 m.dcinside.com##.gall-wrap
 m.dcinside.com##.evt-noti
