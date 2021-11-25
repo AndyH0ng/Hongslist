@@ -137,6 +137,7 @@ dcinside.com##.hot
 dcinside.com##.new_gall
 dcinside.com##.time_best
 dcinside.com##.dcmedia
+dcinside.com##.day_issue
 dcinside.com##.dcfoot
 dcinside.com###rank_gall
 m.dcinside.com##.clkhigh
