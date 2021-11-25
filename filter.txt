@@ -121,6 +121,7 @@ megastudy.net###floatingWrap3
 megastudy.net##.smartzone
 megastudy.net##.studyCast
 megastudy.net##.customerCenter
+megastudy.net##.ly_megaP
 orbi.kr##.class-review
 orbi.kr##.class-video-clip
 orbi.kr##.epi-cen
