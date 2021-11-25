@@ -10,6 +10,8 @@
 ##.lJ9FBc
 ##.Umvnrc
 ##.sbib_c
+google.com##.dRYYxd
+google.co.kr##.dRYYxd
 google.com###footer
 google.co.kr###footer
 
