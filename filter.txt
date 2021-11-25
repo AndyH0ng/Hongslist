@@ -100,7 +100,8 @@ megastudy.net##.commonGnb--bannerHwj
 megastudy.net##.mn_academy
 megastudy.net##.mn_russel
 megastudy.net##.memberWrap__ban
-megastudy.net###footer_new
+megastudy.net###.footer_new
+megastudy.net##.footerFixedBanner
 megastudy.net##.mainTopMain
 megastudy.net##.social
 megastudy.net##.last_subj
