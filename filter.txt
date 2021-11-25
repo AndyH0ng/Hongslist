@@ -154,6 +154,8 @@ m.dcinside.com##.view-btm-con
 m.dcinside.com###adbay_floatingid
 gall.dcinside.com##.content_box
 gall.dcinside.com##.recom_bottom_box
+gall.dcinside.com###opt_use_pop
+gall.dcinside.com###opt_use_pop_bg
 m.dcinside.com##.day_issuebox
 m.dcinside.com##.gall-wrap
 m.dcinside.com##.evt-noti
