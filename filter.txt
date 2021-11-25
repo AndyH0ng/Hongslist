@@ -105,8 +105,6 @@ megastudy.net##.memberWrap__ban
 megastudy.net###footer_new
 megastudy.net##.footerFixedBanner
 megastudy.net##.mainTopMain
-megastudy.net##.social
-megastudy.net##.last_subj
 megastudy.net##.ly_megaP
 megastudy.net##.main_floatings
 megastudy.net##.floatingWrapBottomRight1
