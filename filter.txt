@@ -3,7 +3,7 @@
 ! License: https://github.com/AndyH0ng/Hongslist
 ! Title: Hongslist
 ! Expires: 300 days
-! Version: 0.1.7.1
+! Version: 0.1.7.2
 
 ##.c93Gbe
 ##.dRYYxd
@@ -73,6 +73,7 @@ ko.dict.naver.com##.banner_area
 mimacstudy.com###mainPopPI00001520
 mimacstudy.com###mainPopPI00001598
 mimacstudy.com###mainPopPI00001641
+mimacstudy.com###ad1201Wrap
 mimacstudy.com##.foot_fix_bn
 mimacstudy.com##.top_issue_bn
 mimacstudy.com##.top_tch_bn
