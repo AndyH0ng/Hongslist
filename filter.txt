@@ -3,7 +3,7 @@
 ! License: https://github.com/AndyH0ng/Hongslist
 ! Title: Hongslist
 ! Expires: 300 days
-! Version: 0.1.7.2
+! Version: 0.1.7.3
 
 ##.c93Gbe
 ##.dRYYxd
@@ -14,6 +14,12 @@ google.com##.dRYYxd
 google.co.kr##.dRYYxd
 google.com###footer
 google.co.kr###footer
+
+youtube.com###voice-search-button
+youtube.com###search-icon-legacy
+youtube.com###mouseover-overlay
+youtube.com##tp-yt-paper-tooltip
+youtube.com###chips-wrapper
 
 ##.gnb_banner
 naver.com##.service_area
