@@ -79,6 +79,7 @@ ko.dict.naver.com##.banner_area
 mimacstudy.com###mainPopPI00001520
 mimacstudy.com###mainPopPI00001598
 mimacstudy.com###mainPopPI00001641
+mimacstudy.com###mainPopPI00001754
 mimacstudy.com###ad1201Wrap
 mimacstudy.com##.foot_fix_bn
 mimacstudy.com##.top_issue_bn
@@ -126,6 +127,10 @@ megastudy.net##.smartzone
 megastudy.net##.studyCast
 megastudy.net##.customerCenter
 megastudy.net##.ly_megaP
+megastudy.net##.mainLayer0204__area
+megastudy.net##.footerFixedBanner
+megastudy.net##.footerFixedBanner1
+megastudy.net##.footerFixedBanner2
 orbi.kr##div.oxad.global_top > div
 orbi.kr##.class-review
 orbi.kr##.class-video-clip
