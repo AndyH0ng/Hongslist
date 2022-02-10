@@ -3,7 +3,7 @@
 ! License: https://github.com/AndyH0ng/Hongslist
 ! Title: Hongslist
 ! Expires: 300 days
-! Version: 0.1.7.3
+! Version: 0.1.7.5
 
 ##.c93Gbe
 ##.dRYYxd
@@ -14,6 +14,12 @@ google.com##.dRYYxd
 google.co.kr##.dRYYxd
 google.com###footer
 google.co.kr###footer
+google.com##.MV3Tnb
+google.com##.gb_1d
+google.com##.gb_Bd
+google.com##.gb_Je
+google.com###fbarcnt
+https://ogs.google.com/u/0/widget/callout/
 
 youtube.com###voice-search-button
 youtube.com###search-icon-legacy
@@ -26,13 +32,18 @@ naver.com##.service_area
 naver.com##.btn_keyboard
 naver.com###footer
 naver.com###nautocomplete
+naver.com###shopcast
+naver.com###shopcast_iframe
 naver.com##.shoplive
 naver.com###themecast
 naver.com##.content_top
+naver.com###timesquare
 naver.com###NM_darkmode_btn
+naver.com###NM_MY_TAB_next
+naver.com##._NM_NEWSSTAND_LIST_next_btn
+naver.com##._NM_NEWSSTAND_LIST_prev_btn
 search.naver.com###ke_kbd_btn
 search.naver.com##.ico_lnb_new
-##.mytable_bottom
 m.naver.com###MM_SEARCH_NOW
 m.naver.com##.ISSUE-BANNER-AD
 m.naver.com##.id_comp_napp_banner
@@ -42,11 +53,17 @@ m.naver.com##.main_footer
 m.naver.com##.aside_footer
 m.naver.com##.ah_ly_tooltip
 m.search.naver.com##.api_footer
+section.cafe.naver.com##.home_theme
+section.cafe.naver.com##.home_recent
 section.cafe.naver.com##.btn_arrow
 section.cafe.naver.com##.cafe_banner
 section.cafe.naver.com##.home_editors
 section.cafe.naver.com##.footer
+section.cafe.naver.com##.AsideNotice
+section.cafe.naver.com##.AsideLink
+section.cafe.naver.com##.AsideSmartBot
 cafe.naver.com###gnb-menu
+cafe.naver.com##.banner_chatbot
 m.cafe.naver.com##.ico_new
 m.cafe.naver.com##.icon_badge
 m.cafe.naver.com##.icon_new_txt
@@ -76,6 +93,11 @@ en.dict.naver.com##._btn_autocomplete
 en.dict.naver.com##.banner_area
 ko.dict.naver.com##._btn_autocomplete
 ko.dict.naver.com##.banner_area
+news.naver.com##._card_ad
+news.naver.com##.main_aside
+news.naver.com###gnb_mail_layer
+news.naver.com###gnb_notice_layer
+news.naver.com###gnb_service_layer
 mimacstudy.com###mainPopPI00001520
 mimacstudy.com###mainPopPI00001598
 mimacstudy.com###mainPopPI00001641
@@ -107,8 +129,9 @@ megastudy.net##.common_sky_megapass
 megastudy.net##.commonGnb--navi2--ico
 megastudy.net##.commonGnb--navi1--megaCampaign
 megastudy.net##.commonGnb--bannerHwj
-megastudy.net##.mn_academy
-megastudy.net##.mn_russel
+megastudy.net##.russel
+megastudy.net##.academy
+megastudy.net##.line_btn
 megastudy.net##.memberWrap__ban
 megastudy.net###footer_new
 megastudy.net##.footerFixedBanner
@@ -119,6 +142,9 @@ megastudy.net##.main_floatings
 megastudy.net##.floatingWrapBottomRight1
 megastudy.net##.notice
 megastudy.net##.app
+megastudy.net##.btn_con
+megastudy.net##.guide_area
+megastudy.net##.mp_sky_wrap
 megastudy.net##.new
 megastudy.net##.megaNumOne
 megastudy.net##.floatingWrapBottom
@@ -131,6 +157,7 @@ megastudy.net##.mainLayer0204__area
 megastudy.net##.footerFixedBanner
 megastudy.net##.footerFixedBanner1
 megastudy.net##.footerFixedBanner2
+v.kr.kollus.com###player-installation-notify-bar
 orbi.kr##div.oxad.global_top > div
 orbi.kr##.class-review
 orbi.kr##.class-video-clip
@@ -149,6 +176,8 @@ dcinside.com##.new_gall
 dcinside.com##.time_best
 dcinside.com##.dcmedia
 dcinside.com##.day_issue
+
+dcinside.com##.mall_con
 dcinside.com##.dcfoot
 dcinside.com###rank_gall
 m.dcinside.com##.clkhigh
@@ -163,8 +192,15 @@ m.dcinside.com##.outside-search-box
 m.dcinside.com##.btm-btns-bothdaum
 m.dcinside.com##.view-btm-con
 m.dcinside.com###adbay_floatingid
+m.dcinside.com##.day_issuebox
+m.dcinside.com##.gall-wrap
+m.dcinside.com##.evt-noti
+m.dcinside.com##.footer
+m.dcinside.com##div.allservice:first-child > section.grid:nth-child(3) > div.all-my-wrap > ul.all-my-lst > li:nth-child(2)
+m.dcinside.com##div.allservice:first-child > section.grid:nth-child(7)
 gall.dcinside.com##.content_box
 gall.dcinside.com##.recom_bottom_box
+gall.dcinside.com##.pop_tipbox
 gall.dcinside.com###opt_use_pop
 gall.dcinside.com###opt_use_pop_bg
 search.dcinside.com##.video_result
@@ -176,12 +212,7 @@ search.dcinside.com##.r_timebest
 search.dcinside.com##.r_recommend
 search.dcinside.com##.r_news
 search.dcinside.com##.r_hit
-m.dcinside.com##.day_issuebox
-m.dcinside.com##.gall-wrap
-m.dcinside.com##.evt-noti
-m.dcinside.com##.footer
-m.dcinside.com##div.allservice:first-child > section.grid:nth-child(3) > div.all-my-wrap > ul.all-my-lst > li:nth-child(2)
-m.dcinside.com##div.allservice:first-child > section.grid:nth-child(7)
+sign.dcinside.com##.ban_box
 arca.live##.topbar-area
 reddit.com##.XPromoPopup
 reddit.com##.XPromoPill
