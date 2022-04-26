@@ -55,6 +55,7 @@ m.naver.com##._tutorial_wrap
 m.naver.com##.main_footer
 m.naver.com##.aside_footer
 m.naver.com##.ah_ly_tooltip
+m.naver.com##.id_comp_promotion_tablet
 m.search.naver.com##.api_footer
 section.cafe.naver.com##.home_theme
 section.cafe.naver.com##.home_recent
