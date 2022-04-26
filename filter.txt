@@ -10,14 +10,17 @@
 ##.lJ9FBc
 ##.Umvnrc
 ##.sbib_c
+##.gb_e
 google.com##.dRYYxd
 google.co.kr##.dRYYxd
+google.co.kr##.gb_e
 google.com###footer
 google.co.kr###footer
 google.com##.MV3Tnb
 google.com##.gb_1d
 google.com##.gb_Bd
 google.com##.gb_Je
+google.com##.gb_e
 google.com###fbarcnt
 https://ogs.google.com/u/0/widget/callout/
 
@@ -64,6 +67,8 @@ section.cafe.naver.com##.AsideLink
 section.cafe.naver.com##.AsideSmartBot
 cafe.naver.com###gnb-menu
 cafe.naver.com##.banner_chatbot
+cafe.naver.com###recent-reply
+cafe.naver.com##.footer
 m.cafe.naver.com##.ico_new
 m.cafe.naver.com##.icon_badge
 m.cafe.naver.com##.icon_new_txt
@@ -219,4 +224,14 @@ reddit.com##.XPromoPill
 reddit.com##.XPromoInFeed
 reddit.com##._2vEf-C2keJaBMY9qk_BxVn
 reddit.com##._1vYrJH5uc57mZQJPN4l34E
-
+seoul.co.kr##div:last-child > iframe
+mk.co.kr#$#Content{background: none!important;}
+mk.co.kr##.right_aside
+hankookilbo.com##.submit
+joongang.co.kr##.plotting_banner
+yna.co.kr##.aside-sticky01
+yna.co.kr##.aside-sticky02
+yna.co.kr##.aside-box11
+ytn.co.kr###leftWingBanner
+ytn.co.kr###rightWingBanner
+yna.co.kr###footer
