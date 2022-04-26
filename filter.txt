@@ -104,6 +104,12 @@ news.naver.com##.main_aside
 news.naver.com###gnb_mail_layer
 news.naver.com###gnb_notice_layer
 news.naver.com###gnb_service_layer
+media.naver.com##.gnb_lst
+media.naver.com##._aside
+media.naver.com##.phnb_tooltip
+media.naver.com##.f_maininfo
+news.naver.com###goTop
+news.naver.com##.mp_footer
 mimacstudy.com###mainPopPI00001520
 mimacstudy.com###mainPopPI00001598
 mimacstudy.com###mainPopPI00001641
